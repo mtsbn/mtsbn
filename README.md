@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋 I'm Matheus!</p>
+<h1 align="center">Hi there 👋 I'm Matheus!</h1>
 <p align="center">Full Stack Developer and Programming Student at Fatec São Caetano.</p>
 
 <p align="center">
