@@ -13,5 +13,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/mtsbn/mtsbn/blob/master/undraw_developer_activity_bv83.png?raw=true" alt="Programador com painel de colaborações do github ao fundo" height="200px">
+  <img src="https://github.com/mtsbn/mtsbn/blob/master/developer.png?raw=true" alt="Programador com painel de colaborações do github ao fundo" height="200px">
 </p>
