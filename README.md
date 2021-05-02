@@ -33,8 +33,9 @@
   <code><img title="MongoDB" height="25" src="https://github.com/mtsbn/mtsbn/blob/master/images/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e643947635354547a5041772d353573736d31496d35393478595a3965525175324a796c726b594c6726757371703d434155.png?raw=true"></code>
 </p>
 <h2>Stats</h3>
- [![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtsbn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtsbn&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="My github stats" />
+  
 
 
 
