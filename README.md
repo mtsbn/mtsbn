@@ -5,10 +5,7 @@
   Full Stack Developer at SeuVale. Develop backend applications with .Net and mobile apps with React Native.
   In my free time I like to study a little bit of Internet of things and seek new things to learn. 
 </p>
-<div>
-  <a href="https://wa.me/5511966179345">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>
+<div>  
   <a href="https://www.linkedin.com/in/matheus-barbosa-do-nascimento-a634a7179/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whitee" alt="Linkedin"/>
   </a>
@@ -35,6 +32,8 @@
 <h2>Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtsbn&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="My github stats" />
+  
+![Snake animation](https://github.com/mtsbn/mtsbn/blob/output/github-contribution-grid-snake.svg)
   
 
 
